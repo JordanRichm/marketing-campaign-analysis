@@ -25,7 +25,6 @@ An exploratory data analysis of a synthetically generated marketing campaign dat
 - pandas
 - matplotlib
 - Jupyter Notebook
-- VS Code
 
 ## Dataset
 - **Source:** [Marketing Campaign Performance Dataset - Kaggle](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)
